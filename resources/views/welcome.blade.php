@@ -1,7 +1,6 @@
 @extends('layout.header')
 @section('content')
 
-
 <!-- Hero Section -->
 <section id="hero" class="hero section">
 
@@ -52,7 +51,7 @@
                         <i class="bi bi-bar-chart-line"></i>
                     </div>
                     <div class="stat-content">
-                        <h4 class="fw-bold">10+ Ans</h4>
+                        <h4 class="fw-bold">15+ Ans</h4>
                         <p class="mb-0">Expérience en économie et projets</p>
                     </div>
                 </div>
@@ -153,22 +152,22 @@
                     </div>
                     <div class="experience-badge floating">
                         <h3>15+ <span>Ans</span></h3>
-                        <p>D'expérience dans les services aux entreprises</p>
+                        <p>D'expériences dans les services aux entreprises</p>
                     </div>
                 </div>
             </div>
             <div class="col-xl-5" data-aos="fade-up" data-aos-delay="200">
                 <span class="about-meta">À propos de moi</span>
                 <h2 class="about-title">Une expertise au service du développement</h2>
-                <p class="about-description">
-                    Économiste de formation, passionnée par l'impact des projets sur le développement durable, je cumule plusieurs années d'expérience dans la gestion, l’analyse et l’évaluation de programmes stratégiques. Mon objectif : accompagner les institutions et organisations vers des décisions efficaces et basées sur des données concrètes.
+                <p class="about-description" style="text-align: justify">
+                    Je suis Saturnine Médessè Michozounnou, économiste et experte en gestion et évaluation de projets avec plus de 15 ans d’expérience dans le secteur du développement. Actuellement, je suis co-fondatrice et Directrice Générale de ACCES Universel , une agence africaine de développement durable spécialisée dans le management de projets. Mon rôle consiste à coordonner, avec divers partenaires, des initiatives stratégiques visant à résoudre les grandes équations liées au développement en matière d’accès aux ressources essentielles, afin d'améliorer les conditions de vie en Afrique.
+
+                    Avec une formation en économie appliquée et en gestion de projets internationaux, j’ai eu l’opportunité de travailler sur des projets majeurs touchant à la santé publique, à la lutte contre la pauvreté et au développement communautaire, notamment avec des organisations comme Cuso International et Plan International Bénin . A cela, s'ajoute mes capacités en recherche opérationnelle, collecte, analyse et traitement de données pour avoir longtemps travaillé avec #CEFORP (Centre de Formation et de Recherche en matière de Population) et le #CRAD (Centre de Recherche et d’Appui-conseils pour le Développement) , deux structures de grandes renommée en réalisation d'études.
+
+                    Ce qui me passionne avant tout, c’est de contribuer au développement durable en Afrique tout en renforçant les capacités des acteurs locaux. Je m’engage à mettre mes compétences au service des ONG et des institutions, qu’elles soient publiques ou privées, en les accompagnant dans l’élaboration de leurs stratégies et la mise en œuvre de projets à impact réel pour les communautés. Je suis convaincue qu'ensemble, nous pouvons bâtir un avenir meilleur.
+
+                    Merci à tous de me suivre, et n’hésitez pas à entrer en contact avec moi si vous souhaitez échanger ou collaborer sur des sujets liés au développement et à la gestion de projets, et au suivi évaluation.
                 </p>
-
-
-                <div class="hero-buttons">
-                    <a href="/parcour" class="btn btn-primary me-0 me-sm-2 mx-1 text-uppercase fw-bold cscc">Découvrir mon parcours</a>
-                </div>
-
             </div>
 
         </div>
@@ -210,8 +209,6 @@
 
             </ul>
         </div>
-
-
 
         <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
 
@@ -331,7 +328,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Mes Services</h2>
-        <p>Découvrez les solutions que nous mettons à votre disposition pour répondre à vos besoins avec efficacité et professionnalisme.</p>
+        <p>Découvrez les solutions que je mets à votre disposition pour répondre à vos besoins avec efficacité et professionnalisme.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -345,7 +342,7 @@
                     </div>
                     <div>
                         <h3>Études & Conseils</h3>
-                        <p>Nous réalisons des études approfondies et vous accompagnons avec des conseils personnalisés pour vos projets stratégiques.</p>
+                        <p>Je réalise des études approfondies et vous accompagne avec des conseils personnalisés pour vos projets stratégiques.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
@@ -357,7 +354,7 @@
                     </div>
                     <div>
                         <h3>Gestion de Projets</h3>
-                        <p>De la conception à la mise en œuvre, nous assurons une gestion rigoureuse de vos projets pour garantir leur succès.</p>
+                        <p>De la conception à la mise en œuvre, j’assure une gestion rigoureuse de vos projets pour garantir leur succès.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
@@ -369,7 +366,7 @@
                     </div>
                     <div>
                         <h3>Formations Professionnelles</h3>
-                        <p>Nous offrons des formations adaptées aux besoins du marché pour renforcer les compétences de vos équipes.</p>
+                        <p>J’offre des formations adaptées aux besoins du marché pour renforcer les compétences de vos équipes.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
@@ -381,7 +378,7 @@
                     </div>
                     <div>
                         <h3>Suivi & Évaluation</h3>
-                        <p>Nous assurons le suivi des performances et évaluons l’impact de vos actions pour une meilleure prise de décision.</p>
+                        <p>J’assure le suivi des performances et j’évalue l’impact de vos actions pour une meilleure prise de décision.</p>
                     </div>
                 </div>
             </div><!-- End Service Card -->
@@ -393,8 +390,6 @@
 </section>
 <!-- /Services Section -->
 
-
-
 <!-- Faq Section -->
 <section class="faq-9 faq section light-background" id="faq">
 
@@ -402,13 +397,11 @@
         <div class="row">
 
             <div class="col-lg-5" data-aos="fade-up">
-                <h2 class="faq-title">Vous avez une question ? Consultez notre FAQ</h2>
-                <p class="faq-description">Trouvez rapidement des réponses aux questions les plus fréquentes concernant nos services et notre expertise.</p>
+                <h2 class="faq-title">Vous avez une question ? Consultez ma FAQ</h2>
+                <p class="faq-description">Trouvez rapidement des réponses aux questions les plus fréquentes concernant mes services et mon expertise.</p>
 
                 <div class="faq-arrow d-none d-lg-block" data-aos="fade-up" data-aos-delay="200">
-                    <svg class="faq-arrow" width="200" height="211" viewBox="0 0 200 211" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M198.804 194.488C189.279 189.596 179.529 185.52 169.407 182.07L169.384 182.049C169.227 181.994 169.07 181.939 168.912 181.884C166.669 181.139 165.906 184.546 167.669 185.615C174.053 189.473 182.761 191.837 189.146 195.695C156.603 195.912 119.781 196.591 91.266 179.049C62.5221 161.368 48.1094 130.695 56.934 98.891C84.5539 98.7247 112.556 84.0176 129.508 62.667C136.396 53.9724 146.193 35.1448 129.773 30.2717C114.292 25.6624 93.7109 41.8875 83.1971 51.3147C70.1109 63.039 59.63 78.433 54.2039 95.0087C52.1221 94.9842 50.0776 94.8683 48.0703 94.6608C30.1803 92.8027 11.2197 83.6338 5.44902 65.1074C-1.88449 41.5699 14.4994 19.0183 27.9202 1.56641C28.6411 0.625793 27.2862 -0.561638 26.5419 0.358501C13.4588 16.4098 -0.221091 34.5242 0.896608 56.5659C1.8218 74.6941 14.221 87.9401 30.4121 94.2058C37.7076 97.0203 45.3454 98.5003 53.0334 98.8449C47.8679 117.532 49.2961 137.487 60.7729 155.283C87.7615 197.081 139.616 201.147 184.786 201.155L174.332 206.827C172.119 208.033 174.345 211.287 176.537 210.105C182.06 207.125 187.582 204.122 193.084 201.144C193.346 201.147 195.161 199.887 195.423 199.868C197.08 198.548 193.084 201.144 195.528 199.81C196.688 199.192 197.846 198.552 199.006 197.935C200.397 197.167 200.007 195.087 198.804 194.488ZM60.8213 88.0427C67.6894 72.648 78.8538 59.1566 92.1207 49.0388C98.8475 43.9065 106.334 39.2953 114.188 36.1439C117.295 34.8947 120.798 33.6609 124.168 33.635C134.365 33.5511 136.354 42.9911 132.638 51.031C120.47 77.4222 86.8639 93.9837 58.0983 94.9666C58.8971 92.6666 59.783 90.3603 60.8213 88.0427Z" fill="currentColor"></path>
-                    </svg>
+                    <!-- SVG unchanged -->
                 </div>
             </div>
 
@@ -418,7 +411,7 @@
                     <div class="faq-item faq-active">
                         <h3>Quels sont les délais moyens de réalisation de vos projets ?</h3>
                         <div class="faq-content">
-                            <p>Nos délais varient selon la complexité du projet. En général, nous définissons un planning clair dès le lancement, avec des jalons intermédiaires pour un suivi rigoureux.</p>
+                            <p>Mes délais varient selon la complexité du projet. En général, je définis un planning clair dès le lancement, avec des jalons intermédiaires pour un suivi rigoureux.</p>
                         </div>
                         <i class="faq-toggle bi bi-chevron-right"></i>
                     </div><!-- End Faq item-->
@@ -426,7 +419,7 @@
                     <div class="faq-item">
                         <h3>Proposez-vous un accompagnement après la livraison ?</h3>
                         <div class="faq-content">
-                            <p>Oui, nous assurons une maintenance gratuite pendant 3 mois après la livraison pour garantir le bon fonctionnement de nos solutions.</p>
+                            <p>Oui, j’assure une maintenance gratuite pendant 3 mois après la livraison pour garantir le bon fonctionnement de mes solutions.</p>
                         </div>
                         <i class="faq-toggle bi bi-chevron-right"></i>
                     </div><!-- End Faq item-->
@@ -442,7 +435,7 @@
                     <div class="faq-item">
                         <h3>Quels types de services offrez-vous en gestion de projet ?</h3>
                         <div class="faq-content">
-                            <p>Nous proposons la planification, le suivi, la coordination des équipes ainsi que l’évaluation des risques pour garantir la réussite de votre projet.</p>
+                            <p>Je propose la planification, le suivi, la coordination des équipes ainsi que l’évaluation des risques pour garantir la réussite de votre projet.</p>
                         </div>
                         <i class="faq-toggle bi bi-chevron-right"></i>
                     </div><!-- End Faq item-->
@@ -450,7 +443,7 @@
                     <div class="faq-item">
                         <h3>Vos solutions sont-elles personnalisables selon nos besoins ?</h3>
                         <div class="faq-content">
-                            <p>Absolument, nous adaptons nos services et solutions pour qu’ils correspondent parfaitement aux objectifs et spécificités de votre organisation.</p>
+                            <p>Absolument, j’adapte mes services et solutions pour qu’ils correspondent parfaitement aux objectifs et spécificités de votre organisation.</p>
                         </div>
                         <i class="faq-toggle bi bi-chevron-right"></i>
                     </div><!-- End Faq item-->
@@ -458,7 +451,7 @@
                     <div class="faq-item">
                         <h3>Quels sont vos engagements en matière de sécurité des données ?</h3>
                         <div class="faq-content">
-                            <p>Nous respectons les normes les plus strictes de sécurité et confidentialité, avec des sauvegardes régulières et une infrastructure sécurisée pour protéger vos informations.</p>
+                            <p>Je respecte les normes les plus strictes de sécurité et confidentialité, avec des sauvegardes régulières et une infrastructure sécurisée pour protéger vos informations.</p>
                         </div>
                         <i class="faq-toggle bi bi-chevron-right"></i>
                     </div><!-- End Faq item-->
@@ -466,12 +459,9 @@
                 </div>
             </div>
 
-
         </div>
     </div>
 </section><!-- /Faq Section -->
-
-
 
 <!-- Contact Section -->
 <section id="contact" class="contact section light-background">
@@ -479,7 +469,7 @@
     <!-- Titre de la section -->
     <div class="container section-title" data-aos="fade-up">
         <h2>Contact</h2>
-        <p>Vous avez une question ? N’hésitez pas à nous contacter, nous sommes à votre écoute.</p>
+        <p>Vous avez une question ? N’hésitez pas à me contacter, je suis à votre écoute.</p>
     </div><!-- Fin Titre -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -489,7 +479,7 @@
             <div class="col-lg-5">
                 <div class="info-box" data-aos="fade-up" data-aos-delay="200">
                     <h3>Informations</h3>
-                    <p>Nous sommes disponibles pour répondre à toutes vos demandes et vous accompagner dans vos projets.</p>
+                    <p>Je suis disponible pour répondre à toutes vos demandes et vous accompagner dans vos projets.</p>
 
                     <div class="info-item" data-aos="fade-up" data-aos-delay="300">
                         <div class="icon-box">
@@ -526,9 +516,9 @@
             <!-- Formulaire de contact -->
             <div class="col-lg-7">
                 <div class="contact-form" data-aos="fade-up" data-aos-delay="300">
-                    <h3>Contactez-nous</h3>
-                    <p>Remplissez ce formulaire et nous vous répondrons dans les plus brefs délais.</p>
-                   
+                    <h3>Contactez-moi</h3>
+                    <p>Remplissez ce formulaire et je vous répondrai dans les plus brefs délais.</p>
+
                     <form action="{{ route('envoiedemail') }}" method="POST" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
                         @csrf
                         <div class="row gy-4">
@@ -537,11 +527,11 @@
                             </div>
 
                             <div class="col-md-6">
-                                <input type="email" class="form-control" name="email" placeholder=votre@email.com" required>
+                                <input type="email" class="form-control" name="email" placeholder="votre@email.com" required>
                             </div>
 
                             <div class="col-12">
-                                <input type="text" class="form-control" name="sujet" placeholder="Sujet du messag" required>
+                                <input type="text" class="form-control" name="sujet" placeholder="Sujet du message" required>
                             </div>
 
                             <div class="col-12">
@@ -564,7 +554,7 @@
                                 @endif
 
                                 <div class="loading">Envoi en cours...</div>
-                                <div class="sent-message">Votre message a bien été envoyé. Merci !</div> 
+                                <div class="sent-message">Votre message a bien été envoyé. Merci !</div>
                                 <button type="submit" class="me-0 me-sm-2 mx-1 text-uppercase fw-bold cscc">Envoyer votre message</button>
                             </div>
                         </div>

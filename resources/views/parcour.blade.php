@@ -24,7 +24,7 @@
             <div class="col-xl-5" data-aos="fade-up" data-aos-delay="200">
                 <span class="about-meta">À propos de moi</span>
                 <h2 class="about-title">Une expertise au service du développement</h2>
-                <p class="about-description">
+                <p class="about-description" style="text-align: justify">
                     Je suis Saturnine Médessè Michozounnou, économiste et experte en gestion et évaluation de projets avec plus de 15 ans d’expérience dans le secteur du développement. Actuellement, je suis co-fondatrice et Directrice Générale de ACCES Universel , une agence africaine de développement durable spécialisée dans le management de projets. Mon rôle consiste à coordonner, avec divers partenaires, des initiatives stratégiques visant à résoudre les grandes équations liées au développement en matière d’accès aux ressources essentielles, afin d'améliorer les conditions de vie en Afrique.
 
                     Avec une formation en économie appliquée et en gestion de projets internationaux, j’ai eu l’opportunité de travailler sur des projets majeurs touchant à la santé publique, à la lutte contre la pauvreté et au développement communautaire, notamment avec des organisations comme Cuso International et Plan International Bénin . A cela, s'ajoute mes capacités en recherche opérationnelle, collecte, analyse et traitement de données pour avoir longtemps travaillé avec #CEFORP (Centre de Formation et de Recherche en matière de Population) et le #CRAD (Centre de Recherche et d’Appui-conseils pour le Développement) , deux structures de grandes renommée en réalisation d'études.
